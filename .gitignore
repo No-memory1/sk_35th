@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+venv/
+.env
+발표대본.md
